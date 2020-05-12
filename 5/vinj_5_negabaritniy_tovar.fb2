@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+<description>
+<title-info>
+<genre match="100">prose_contemporary</genre>
+<author>
+<first-name>Анна</first-name>
+<middle-name></middle-name>
+<last-name>Власова</last-name>
+<home-page>http://proza.ru/avtor/annavlasova</home-page>
+</author>
+<book-title>Негабаритный товар</book-title>
+<lang>ru</lang>
+<sequence name="Интернет-журнал Виноградова" number="5"/>
+</title-info>
+<document-info>
+<author>
+<first-name/>
+<last-name/>
+</author>
+<program-used>OOoFBTools-2.3 (ExportToFB21)</program-used>
+<date value="2012-07-23">23.07.2012</date>
+<id>OOoFBTools-2012-7-23-15-6-21-538</id>
+<version>1.0</version>
+</document-info>
+<custom-info info-type="Редактор">Виноградов С.В.</custom-info>
+</description>
+<body>
+<section>
+<p><a l:href="http://proza.ru/avtor/annavlasova">Власова Анна</a>; <a l:href="http://proza.ru/2012/07/21/101">ссылка на оригинал</a></p>
+</section>
+<section>
+<title>
+<p><emphasis><strong>Негабаритный товар</strong></emphasis></p>
+</title>
+<p>Сегодня я буду твоим негабаритным товаром.</p>
+<p>Не заманчивым.</p>
+<p>Не вдохновляющим.</p>
+<p>Никаким.</p>
+<empty-line/>
+<p>Просто я стану другой.</p>
+<p>Без блеска на губах, без черной туши с эффектом накладных ресниц, без нарумяненных щек, словно только с мороза, без тонкой черной подводки на глазах...</p>
+<empty-line/>
+<p>Сегодня я буду собой.</p>
+<p>Домашней.</p>
+<p>В пижаме и тапочках серого цвета.</p>
+<p>В повязанном на голову платке, защищающем лицо от ниспадающих – и в кое-то веки распущенных – волос.</p>
+<p>Без нижнего белья и с плюшевым мишкой.</p>
+<empty-line/>
+<p>Сегодня ты увидишь меня настоящую.</p>
+<p>Непричесанную.</p>
+<p>Сонную.</p>
+<p>Рассеянную.</p>
+<empty-line/>
+<p>И вечно бросающую курить.</p>
+<empty-line/>
+<p>Сегодня ты поймешь, что я не твоя любимая кукла, а лишь обычный – самый для тебя негабаритный – товар.</p>
+<empty-line/>
+<p>Сегодня я та, которая тебе не нужна. Не барби, и далеко не фея. Такую не возьмешь "на прогулку" или премьеру нового фильма. Такую не поведешь в театр и не похвастаешься перед друзьями.</p>
+<empty-line/>
+<p>Сегодня я просто перестану быть леди. Твоей любимой леди.</p>
+<empty-line/>
+<p>Никаких вечерних туалетов и посещения салонов красоты.</p>
+<p>Никакого лака для волос и толстого слоя макияжа.</p>
+<empty-line/>
+<p>Сегодня я буду собой.</p>
+<empty-line/>
+<p>Выходящей из душа в старом махровом полотенце.</p>
+<p>Жарящей тосты на сломанной плите...</p>
+<empty-line/>
+<p>...</p>
+<p>…</p>
+<empty-line/>
+<p>Сегодня я...</p>
+<empty-line/>
+<p>Сегодня я проведу весь день, наблюдая за тем, как ты навсегда вычеркиваешь меня из своей жизни... </p>
+</section>
+</body>
+</FictionBook>
