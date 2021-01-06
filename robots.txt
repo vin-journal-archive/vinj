@@ -1,0 +1,12 @@
+Host: vin-journal-archive.github.io
+User-agent: *
+# Disallow: /
+Allow: /index.html
+Allow: /about.html
+Allow: /avtors.html
+Allow: /2/index.html
+Allow: /3/index.html
+Allow: /4/index.html
+Allow: /5/index.html
+Allow: /6/index.html
+Sitemap: https://vin-journal-archive.github.io/sitemap.xml
